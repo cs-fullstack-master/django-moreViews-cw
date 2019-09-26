@@ -5,14 +5,14 @@
 - Create a "times2" route that takes an argument in the URL and returns a response with "The product times 2 is: [ANSWER]"
 - Create a "total" route that takes an integer in the URL and returns a response with "The sum of all numbers from 0 to the integer is: [SUM]"
 
-### Exercise 3
+### Exercise 2
 Using the same project/app from Exercise 2, create a django template for the route URL. Do the following in the template:
 - Display your name in large letters at the top
 - Display all entries in the database as an HTML list
-- Display "Here are all of the cups manufactured after 2012"
-- Display all cups manufacturered after 2012
 
-### Challenge
+### Challenge 2:
+
+### Challenge Extra
 Using the Cup model/schema create
 Create a Cup model/schema with name, material, and manufacturerDate attributes. 
 
